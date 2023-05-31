@@ -1,0 +1,33 @@
+body {
+    background-color: powderblue;
+  }
+  
+  h1 {
+    color: white;
+    margin-left: 20px;
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  p {
+    font-size: 25px;
+  }
+
+  h2{
+    color: white;
+    margin-left:20px;
+    font-size: 70px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+  h3{
+    color: black;
+    font-size: 40px;
+  }
+  h4{
+    color: black;
+    font-size: 40px;
+  }
+  h5{
+    color: black;
+    font-size: 40px;
+  }
